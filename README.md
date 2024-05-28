@@ -1,4 +1,4 @@
-Click  on ugway to refresh on just refresh the page to get a new quote
+Click  on ugway to refresh or just refresh the page to get a new quote
 
 # advicer
 
