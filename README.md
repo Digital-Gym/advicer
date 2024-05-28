@@ -1,3 +1,5 @@
+Click  on ugway to refresh on just refresh the page to get a new quote
+
 # advicer
 
 This template should help get you started developing with Vue 3 in Vite.
